@@ -3,39 +3,40 @@
 title:            Site Title
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Alexander Franke
+  avatar: Hydrangeas.jpg
+  bio: "webpage under construction"
+  email: afranke@ncsu.edu
+  current position: NCSU/MSE
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #username
-  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+  #twitter: #username
+  #facebook: #username
+  #google:
+  #  plus: #username
+  #  analytics:
+  #  verify:
+  #  ad-client:
+  #  ad-slot:
+  #bing-verify:
+  github: alfranke.github.io
+  #stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
+  #linkedin: #username
+  #xing: #username
+  #instagram: #username
+  #lastfm: #username
+  #tumblr: #username
+  #pinterest: #username
+  #foursquare: #username
+  #steam: #username
+  #dribbble: #username
+  #youtube: #username
+  #soundcloud: #username
+  #weibo: #username
+  #flickr: #username
+  #codepen: #username
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
