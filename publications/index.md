@@ -16,6 +16,8 @@ Franke et al.
 
 [title2?](http://google.com)
 
-![picture](../images/bio-photo.jpg) Franke et al.
+Franke et al.
+
+![picture](../images/bio-photo.jpg) 
 
 fsyfsfsf
