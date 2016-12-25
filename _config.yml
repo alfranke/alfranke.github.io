@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Alexander Franke
 locale:           en_US
 logo:
 url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Alexander Franke
+  name: Dr. Alexander Franke
   avatar: franke_alex7041.jpg
   bio: "webpage under construction"
-  email: afranke@ncsu.edu
+  email: alexander_franke@gmx.net
   current position: NCSU/MSE
   disqus-shortname:
   twitter: #username
