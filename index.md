@@ -7,5 +7,12 @@ tags: [Jekyll, theme, responsive, blog, template]
 # about me
 dhfdfhfjz
 
-## current position
-I'm currently working ...
+## present position
+Fellowship of Natinal Academies of Sciences, Engineering, Medicine, Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC USA
+
+##previous positions
+Research Associate and Postdoctoral Researcher, Wide bandgap group at Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC USA
+
+Postdoctoral Researcher, Institute of solid sate physics, Technische Universität Berlin, Germany
+
+Research Assistance, Intitute of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany
