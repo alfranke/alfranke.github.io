@@ -8,7 +8,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 semiconductor optoelectronics scientist
 
 ### present position
-[Fellowship of Natinal Academies of Sciences](http://sites.nationalacademies.org/PGA/RAP/index.htm), Engineering, Medicine, Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC USA
+[Fellowship of National Academies of Sciences](http://sites.nationalacademies.org/PGA/RAP/index.htm), Engineering, Medicine, Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC USA
 
 ### previous positions
 Research Associate and Postdoctoral Researcher, [Department of Materials Science and Engineering](http://www.mse.ncsu.edu/), North Carolina State University, Raleigh, NC USA
