@@ -23,6 +23,8 @@ Assistant of graduate course “Interaction of Electrons with materials” and
 
 Oct. 2008 – Jul. 2009
 Lecturer of undergrad course “Technical Optics” at Otto-von-Guericke-University Magdeburg, Germany
+
+
 ## Awards
 
 `2012`
