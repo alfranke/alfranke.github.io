@@ -17,9 +17,11 @@ Degree Awarded
 
 ### Teaching experience-
 
-Dec. 2016 - Feb. 2014
-Assistant of graduate course “Interaction of Electrons with materials” and
-“Interaction of Photons with Materials”, North Carolina State University, Raleigh, NC, USA 
+
+
+`Dec. 2016 - Feb. 2014`
+__Assistant of graduate course “Interaction of Electrons with materials” and
+“Interaction of Photons with Materials”__, North Carolina State University, Raleigh, NC, USA 
 
 Oct. 2008 – Jul. 2009
 Lecturer of undergrad course “Technical Optics” at Otto-von-Guericke-University Magdeburg, Germany
