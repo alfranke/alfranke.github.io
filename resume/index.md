@@ -15,7 +15,7 @@ Degree Awarded
 __University Name__
 Degree Awarded 
 
-###Teaching experience
+### Teaching experience-
 
 Dec. 2016 - Feb. 2014
 Assistant of graduate course “Interaction of Electrons with materials” and
