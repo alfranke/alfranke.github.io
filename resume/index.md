@@ -74,13 +74,14 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
   <tr>
     <td>Apr. 2015 - Dec. 2016</td>
     <td>Fellowship of National Academies of Sciences at Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA</td>
+    <tr>
     <td> </td>
     <td> - <u>project management:</u> ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical emitting laser (VCSEL and polariton laser) </td>
   </tr>
   <td> </td>
   <td> </td>
   <tr>
-    <td colspan="2">## Work experience</td>
+    <td colspan="2"> *Work experience*</td>
   </tr>
 </table>
 
