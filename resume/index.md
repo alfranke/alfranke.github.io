@@ -11,7 +11,8 @@ comments: true
 ***
 
 Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA
->
+<div class="paragraph"><p>&#8203;<br>
+&#8203;<br></p></div>   
 * <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
 * strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks 
 
@@ -21,19 +22,18 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 ***
 
 Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA
-{zwsp} +
 
-* <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
+* {zwsp} + <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
 * strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks
 
 ## Identification
 
 ***
 
-+:------------- +:-------------------------------------------------------|
++:-------------:+:-------------------------------------------------------|
 |date of birth: | 25. February 1982                                      |
 |place of birth:| Halle, Germany                                         |
-|email:         | [alexander_franke(at)gmx.net](mailto:alexander_franke@gmx.net)|
+|email:         | [<u>alexander_franke(at)gmx.net</u>](mailto:alexander_franke@gmx.net)|
 
 
 ## Education
