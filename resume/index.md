@@ -5,6 +5,13 @@ layout: resume
 
 Current Position Description
 
+currently
+***
+currently
+---
+currently
+***
+
 ## Education
 
 `1990 - 1994`
