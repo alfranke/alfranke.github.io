@@ -11,19 +11,17 @@ comments: true
 
 ***
 
-<p> Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA  
+Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA  
 
 * <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
-* strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks </p>
+* strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks 
 
 ## Identification
 
 ***
 
-|              |                 |
-|--------------|:----------------|
 |date of birth:|25. February 1982|
-|place of birth:|Halle, Germany
+|place of birth:|Halle, Germany|
 |email:|alexander_franke(at)gmx.net|
 
 
