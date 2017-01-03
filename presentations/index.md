@@ -9,13 +9,13 @@ Presentations (selected)
 
 ## 2016
 
-**A. Franke**, F. Kaess, M.P. Hoffmann, J. Tweedie, R. Kirste, M. Bobea-Graziano, E. Sachet, J.-P. Maria, M. Gerhold, R. Collazo, Z. Sitar, __"AlGaN DBR and microcavities for deep UV vertical emitting laser"__, International Workshop on Nitride Semiconductors 2016, Orlando, USA
+**A. Franke**, F. Kaess, M.P. Hoffmann, J. Tweedie, R. Kirste, M. Bobea-Graziano, E. Sachet, J.-P. Maria, M. Gerhold, R. Collazo, Z. Sitar, _"AlGaN DBR and microcavities for deep UV vertical emitting laser"_, International Workshop on Nitride Semiconductors 2016, Orlando, USA
 
-<u>A. Franke</u>, D. Alden, R. Kirste, J. Tweedie, F. Kaess, M.P. Hoffmann, M. Gerhold, R. Collazo, Z. Sitar, __"Nitride micro-columnar DBR and monolithic microcavites for the UV-C spectral range"__, International Workshop on Nitride Semiconductors 2016, Orlando, USA
+<u>A. Franke</u>, D. Alden, R. Kirste, J. Tweedie, F. Kaess, M.P. Hoffmann, M. Gerhold, R. Collazo, Z. Sitar, _"Nitride micro-columnar DBR and monolithic microcavites for the UV-C spectral range"_, International Workshop on Nitride Semiconductors 2016, Orlando, USA
 
-**A. Franke**, __"Laser: Conquer the dark side of the force"__, "Science on stage", North Carolina Museum of Natural Sciences, Raleigh, USA
+**A. Franke**, _"Laser: Conquer the dark side of the force"_, "Science on stage", North Carolina Museum of Natural Sciences, Raleigh, USA
 
-**A. Franke**, L. Hernandez, F. Kaess, M.P. Hoffmann, I. Bryan, Z. Bryan, M. Bobea, J. Tweedie, R. Kirste, E. Sachet, J.-P. Maria, M. Gerhold, R. Collazo, Z. Sitar, “Strain engineered high reflectivity DBRs and microcavities in the deep UV”, SPIE Photonics West, San Francisco, USA
+**A. Franke**, L. Hernandez, F. Kaess, M.P. Hoffmann, I. Bryan, Z. Bryan, M. Bobea, J. Tweedie, R. Kirste, E. Sachet, J.-P. Maria, M. Gerhold, R. Collazo, Z. Sitar, _“Strain engineered high reflectivity DBRs and microcavities in the deep UV”_, SPIE Photonics West, San Francisco, USA
 
 ## 2015
 
