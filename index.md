@@ -5,8 +5,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 ## About me
-I’m a semiconductor scientist focused on the engineering of optoelectronic and photonic devices for next generation light emitters for communication, sensing, and imaging applications as well as single photon sources required for quantum cryptography and quantum computing. My research activities at forefront university institutions in Germany and the United States and collaboration with cutting edge international companies and research institutions allowed me to developed profound expertise covering multidisciplinary fields - crystal and thin film deposition, nanotechnology, semiconductor device simulation, fabrication and their structural and optical characterization.--
-
+I’m a semiconductor scientist focused on the engineering of optoelectronic and photonic devices for next generation light emitters for communication, sensing, and imaging applications as well as single photon sources required for quantum cryptography and quantum computing. My research activities at forefront university institutions in Germany and the United States and collaboration with cutting edge international companies and research institutions allowed me to developed profound expertise covering multidisciplinary fields - crystal and thin film deposition, nanotechnology, semiconductor device simulation, fabrication and their structural and optical characterization.  
 My current work is focused on the fabrication and fundamental research on nitride vertical emitting ultra-violet lasers qualified for a weak and strong interaction of light with matter.
 
 ## Interests and projects
