@@ -13,10 +13,8 @@ comments: true
 
 Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA
 
-* main research interests: wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
-
+* <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
 * strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks
-* <u>main research interests:</u>
 
 ## Identification
 
@@ -26,13 +24,14 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 ## Education
 
+***
+
 |Feb. 2007 - Apr. 2013|	Doctorate (Dr. rer. nat): Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (magna cum laude)|  
 | | Specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures|  
 | | Thesis: Light-matter-coupling in nitride microcavities”|
-
-|Oct. 2001 - Jan. 2007|	Study of physics (Diplom): Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (very good)
-	Specialization:	condensed matter / solid state physics / semiconductor physics  
-Thesis: “Luminescence investigations of microcavity and VCSEL structures in the blue and ultra-violet spectral range”
+|Oct. 2001 - Jan. 2007|	Study of physics (Diplom): Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (very good)||
+| | Specialization: condensed matter / solid state physics / semiconductor physics|
+| |Thesis: “Luminescence investigations of microcavity and VCSEL structures in the blue and ultra-violet spectral range”|
 
 
 
