@@ -1,6 +1,11 @@
 ---
-layout: resume
+layout: page
+title: Resume
+tags: [about, about me, me, ]
+modified: 2014-08-08T20:53:07.573882-04:00
+comments: true
 ---
+
 
 ## profile
 
@@ -22,8 +27,8 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 ## Education
 
 |Feb. 2007 - Apr. 2013|	Doctorate (Dr. rer. nat): Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (magna cum laude)|  
-| |* Specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures|  
-| |* Thesis: Light-matter-coupling in nitride microcavities”|
+| | Specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures|  
+| | Thesis: Light-matter-coupling in nitride microcavities”|
 
 |Oct. 2001 - Jan. 2007|	Study of physics (Diplom): Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (very good)
 	Specialization:	condensed matter / solid state physics / semiconductor physics  
