@@ -6,7 +6,7 @@ comments: true
 ---
 
 # Presentations (selected)
-[Download pdf-file]
+    
 
 ## 2016
 **A. Franke**, F. Kaess, M.P. Hoffmann, J. Tweedie, R. Kirste, M. Bobea-Graziano, E. Sachet, J.-P. Maria, M. Gerhold, R. Collazo, Z. Sitar, *"AlGaN DBR and microcavities for deep UV vertical emitting laser"*, International Workshop on Nitride Semiconductors 2016, Orlando, USA
