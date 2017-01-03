@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Pofile
 tags: [about, about me, me, ]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
+## Profile
 ***
 
 Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA
@@ -14,7 +14,6 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 * strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks 
 
 ## Identification
-
 ***
 
 |date of birth: | 25. February 1982                                      |
@@ -22,7 +21,6 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 |email:         | [<u>alexander_franke(at)gmx.net</u>](mailto:alexander_franke@gmx.net)|
 
 ## Education
-
 ***
 
 |Feb. 2007 - Apr. 2013|**Doctorate (Dr. rer. nat):** Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (magna cum laude)|
@@ -34,7 +32,6 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 |                     |- Thesis: “Luminescence investigations of microcavity and VCSEL structures in the blue and ultra-violet spectral range”| 
 
 ## Work experience
-
 ***
 
 |Apr. 2015 - Dec. 2016|**Fellowship of National Academies of Sciences:** Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA|
@@ -56,7 +53,6 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 |                     |- supervision of physics students (diploma degree)|
 
 ## Teaching experience
-
 ***
 
 |Feb. 2014 - Dec. 2016|**Assistant** for graduate course “Interaction of Electrons with Materials” and “Interaction of Photons with Materials”, North Carolina State University, Raleigh, NC, USA|
@@ -70,7 +66,6 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 |Nov. 2004 - Dec. 2005|**Teaching assistant** for undergraduate applied physics laboratory course at Otto-von-Guericke-University Magdeburg, Germany|
 
 ## Scientific and University Organization
-
 ***
 
 |since 2000           |Membership of “Deutsche Physikalische Gesellschaft” (DPG)|
