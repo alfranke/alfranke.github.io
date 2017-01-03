@@ -5,7 +5,6 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-
 ## Profile
 
 ***
@@ -21,7 +20,6 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 <!--
 +:-------------:+:-------------------------------------------------------+ -->
----------------- ---
 |date of birth: | 25. February 1982                                      |
 |place of birth:| Halle, Germany                                         |
 |email:         | [<u>alexander_franke(at)gmx.net</u>](mailto:alexander_franke@gmx.net)|
