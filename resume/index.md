@@ -6,10 +6,15 @@ layout: resume
 Current Position Description
 
 currently
+
 ***
+
 currently
+
 ---
+
 currently
+
 ***
 
 ## Education
