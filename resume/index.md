@@ -20,9 +20,9 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 ***
 
-|date of birth:|25. February 1982|
-|place of birth:|Halle, Germany|
-|email:|alexander_franke(at)gmx.net|
+|date of birth:|25. February 1982                             |
+|place of birth:|Halle, Germany                               |
+|email:|alexander_franke(at)gmx.net                           |
 
 
 ## Education
