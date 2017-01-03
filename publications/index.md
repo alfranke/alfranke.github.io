@@ -29,34 +29,28 @@ F. Güell, P.R. Martínez-Alanis, S. Khachadorian, R.R. Zamani, **A. Franke**, A
 F. Güell, P.R. Martinez-Alanis, S. Khachadorian, J. Rubio-Garcia, **A. Franke**, A. Hoffmann, G. Santana, *“Raman and photoluminescence properties of ZnO nanowires grown by a catalyst-free vapor-transport process using ZnO nanoparticle seeds”*, [Phys. Status Solidi B 253, 5, 883-888, (2016)](http://onlinelibrary.wiley.com/doi/10.1002/pssb.201552651/full)
 
 ## 2015
-
 A. Majkić, U. Puc, **A. Franke**, R. Kirste, R. Collazo, Z. Sitar, M. Zgonik, *“Optical properties of aluminium nitride single crystal in the THz region”*, [Optical Materials Express, 5, 10, 2106-2111, (2015)](https://www.osapublishing.org/ome/abstract.cfm?uri=ome-5-10-2106)
 
 S. Okur, **A. Franke**, F. Zhang, V. Avrutin, H. Morcoc, F. Bertram, J. Christen, Ü. Özgür, *“Strong exciton-photon coupling in hybrid InGaN-based microcavities on GaN substrate”*, [Proc. SPIE; 9363, (2015)](http://spie.org/Publications/Proceedings/Paper/10.1117/12.2080265)
 
 ## 2013
-
 S. Okur, R. Shimada, F. Zhang, S.D.A. Hafiz, J. Lee, V. Avrutin, Ü. Özgür, H. Morkoç, **A. Franke**,
 F. Bertram, and J. Christen, *“GaN-Based Vertical Cavities with All Dielectric Reflectors by Epitaxial Lateral Overgrowth”*, [Japanese Journal of Applied Physics 52, 08JH03 (2013)](http://iopscience.iop.org/article/10.7567/JJAP.52.08JH03/meta)
 
 ## 2012
-
 **A. Franke**, B. Bastek, S. Sterling, O. August, S. Petzold, P. Veit, J. Christen, P. Moser, M. Wieneke, C. Berger, J. Blaesing, A. Dadgar, and A. Krost, *“Optical characterization of a InGaN/GaN microcavity with epitaxial AlInN/GaN bottom DBR”*, [MRS Proceedings, 2012 1396 (2012)](https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/div-classtitleoptical-characterization-of-a-ingangan-microcavity-with-epitaxial-alinngan-bottom-dbrdiv/1833B112BDAC0E3C59441DDC80310A91)
 
 C. Berger, A. Dadgar, J. Blaesing, **A. Franke**, T. Hempel, R. Goldhahn, J. Christen, and A. Krost, *“Growth of AlInN/AlGaN distributed Bragg reflectors for high quality microcavities”*, [Physica Status Solidi (c) 9, 5, 1253-1258 (2012)](http://onlinelibrary.wiley.com/doi/10.1002/pssc.201100132/abstract)
 
 ## 2011
-
 **A. Franke**, B. Bastek, J. Krimmling, J. Christen, P. Moser, A. Dadgar, A. Krost, *“Optical investigation of a hybrid GaN based microcavity with AlInN/GaN bottom and dielectric top distributed Bragg mirror”*, [Superlattices and Microstructures 49, pages 187–192 (2011)](http://www.sciencedirect.com/science/article/pii/S0749603610000790)
 
 ## 2010
-
 A. Krost, C. Berger, J. Blaesing, **A. Franke**, T. Hempel, A. Dadgar, and J. Christen, *“Strain evaluation in AlInN/GaN Bragg mirrors by in situ curvature measurements and ex situ x-ray grazing incidence and transmission scattering”*, [Applied Physics Letters 97, 181105 (2010)](http://aip.scitation.org/doi/abs/10.1063/1.3514241?journalCode=apl)
 
 Vivian K. X. Lin, S. Tripathy, S. L. Teo, S. B. Dolmanan, A. Dadgar, M. Noltemeyer, **A. Franke**, F. Bertram, J. Christen, and A. Krost, *“Luminescence Properties of Photonic Crystal InGaN/GaN Light Emitting Layers on Silicon-on-Insulator”*, [Electrochemical and Solid-State Letters 13, H343 (2010)](http://esl.ecsdl.org/content/13/10/H343.abstract)
 
 ## 2009
-
 C. Hums, A. Gadanecz, A. Dadgar, J. Bläsing, P. Lorenz, S. Krischok, F. Bertram, **A. Franke**, J.A. Schaefer, J. Christen, Alois Krost, *“AlInN/GaN based multi quantum well structures – growth and optical properties”*, [Phys. Status Solidi C 6, 2, S451-S454, (2009)](http://onlinelibrary.wiley.com/doi/10.1002/pssc.200880899/abstract)
 
 
