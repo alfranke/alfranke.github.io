@@ -1,6 +1,5 @@
 ---
 layout: page
-<!-- ###title: Profile-->
 tags: [about, about me, me, ]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -19,19 +18,9 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 ***
 
-| :---          |     :---                                               |
 |date of birth: | 25. February 1982                                      |
 |place of birth:| Halle, Germany                                         |
 |email:         | [<u>alexander_franke(at)gmx.net</u>](mailto:alexander_franke@gmx.net)|
-
-## Identification
-
-***
-
-
-|date of birth: | 25. February 1982                                      | ....|     |
-|place of birth:| Halle, Germany                                         | ....|     |
-|email:         | [<u>alexander_franke(at)gmx.net</u>](mailto:alexander_franke@gmx.net)| .... |     |
 
 ## Education
 
@@ -87,7 +76,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 |since 2000           |Membership of “Deutsche Physikalische Gesellschaft” (DPG)|
 |                     | |
-|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina State University, Raleigh, NC <br> - represent and support international postdoctoral students at NC State University| 
+|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina State University, <br> Raleigh, NC <br> - represent and support international postdoctoral students at NC State University| 
 
 
 
