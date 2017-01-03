@@ -12,9 +12,9 @@ comments: true
 ***
 
 Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA  
- * <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
 
-- strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks
+* <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
+* strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks
 
 ## Identification
 
@@ -41,12 +41,12 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 |Apr. 2015 - Dec. 2016| Fellowship of National Academies of Sciences at Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA|
 | | - <u>project management:</u> ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical emitting laser (VCSEL and polariton laser)
 | | |
-|Feb. 2014 - Apr. 2015| |Postdoctoral Researcher / Research Associate|
+|Feb. 2014 - Apr. 2015| |Postdoctoral Researcher // Research Associate|
 | |Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA|
 | |- Simulation and epitaxial growth of AlGaN semiconductor ternary alloys and Bragg reflectors for ultra-violet (UV) vertical emitting laser devices|
 | |- supervision of PhD and master students|
 | | |
-|Feb 2013 - Feb. 2014| Postdoctoral Researcher / Research Associate|
+|Feb 2013 - Feb. 2014| Postdoctoral Researcher // Research Associate|
 | |Department of solid state physics at the Technische Universität Berlin (TU Berlin), Germany|
 | |- project „Nanostructured Efficient White LEDs (NEWLED), optical characterization of semiconductor nanostructures|
 | |- supervison of Master and Bachelor students|
