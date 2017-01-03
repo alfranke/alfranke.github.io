@@ -11,26 +11,29 @@ comments: true
 ***
 
 Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA
-
+>
 * <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
 * strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks 
+
 
 ## Profile
 
 ***
+
 Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA
-<ul>
-<li><u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy</li>
-<li>strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks</li>
-</ul>
+{zwsp} +
+
+* <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
+* strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks
 
 ## Identification
 
 ***
 
-|date of birth:|                             25. February 1982                             |
-|place of birth:|                            Halle, Germany                               |
-|email:|                                     [alexander_franke(at)gmx.net](alexander_franke@gmx.net)|
++:------------- +:-------------------------------------------------------|
+|date of birth: | 25. February 1982                                      |
+|place of birth:| Halle, Germany                                         |
+|email:         | [alexander_franke(at)gmx.net](mailto:alexander_franke@gmx.net)|
 
 
 ## Education
