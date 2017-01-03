@@ -10,6 +10,7 @@ I’m a semiconductor scientist focused on the engineering of optoelectronic and
 My current work is focused on the fabrication and fundamental research on nitride vertical emitting ultra-violet lasers qualified for a weak and strong interaction of light with matter.
 
 ## Interests and projects
+1. nitride and oxide thin films and photonic devices for sensing, imaging and quantum communication technology (single photon emitter, quantum cryptography)
 ...* nitride and oxide thin films and photonic devices for sensing, imaging and quantum communication technology (single photon emitter, quantum cryptography)
 
 ..* nanostructures especially for tailoring and emission of light (microcavity laser, photonic crystals, micro-disk laser)
