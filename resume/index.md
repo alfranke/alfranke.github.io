@@ -37,7 +37,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 ***
 
-|Feb. 2007 - Apr. 2013| Doctorate (Dr. rer. nat) <br> Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (magna cum laude) <br> -specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures <br> - Thesis: Light-matter-coupling in nitride microcavities”|  
+|Feb. 2007 - Apr. 2013| **Doctorate (Dr. rer. nat)** <br> Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (magna cum laude) <br> -specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures <br> - Thesis: Light-matter-coupling in nitride microcavities”|  
 |                     |    |
 |Oct. 2001 - Jan. 2007|Study of physics (Diplom) <br> Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (very good) <br> - specialization: condensed matter / solid state physics / semiconductor physics <br> - Thesis: “Luminescence investigations of microcavity and VCSEL structures in the blue and ultra-violet spectral range”|
 
