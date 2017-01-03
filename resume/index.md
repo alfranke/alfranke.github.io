@@ -33,12 +33,24 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 |                     |- Specialization: condensed matter / solid state physics / semiconductor physics|
 |                     |- Thesis: “Luminescence investigations of microcavity and VCSEL structures in the blue and ultra-violet spectral range”|   
 
+## Education
+
+***
+
+|Feb. 2007 - Apr. 2013|**Doctorate (Dr. rer. nat):** Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (magna cum laude)|
+|                     |- Specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures|  
+|                     |- Thesis: Light-matter-coupling in nitride microcavities”|  
+|                     |    |
+|Oct. 2001 - Jan. 2007|**Study of physics (Diplom):** Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (very good)|
+|                     |- Specialization: condensed matter / solid state physics / semiconductor physics|
+|                     |- Thesis: “Luminescence investigations of microcavity and VCSEL structures in the blue and ultra-violet spectral range”| 
+
 ## Work experience
 
 ***
 
 |Apr. 2015 - Dec. 2016|**Fellowship of National Academies of Sciences** <br> Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA|
-|                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of <br> vertical emitting laser (VCSEL and polariton laser)|
+|                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical <br> emitting laser (VCSEL and polariton laser)|
 |                     | |
 |Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate** <br> Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA|
 |                     |- Simulation and epitaxial growth of AlGaN semiconductor ternary alloys and Bragg reflectors for ultra-violet (UV) vertical emitting laser devices|
