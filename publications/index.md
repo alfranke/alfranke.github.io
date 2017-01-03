@@ -10,7 +10,6 @@ comments: true
 *[Download pfd-file]*
 
 ## 2016
-
 F. Kaess, P. Reddy, D. Alden, A. Klump, L.H. Hernandez- Balderrama, **A. Franke**, R. Kirste, A. Hoffmann, R. Collazo, Z. Sitar, *“The Effect of Illumination Power Density on Carbon Defect Configuration in Silicon doped GaN”*, [Journal of Applied Physics 120, 235705 (2016)](http://aip.scitation.org/doi/abs/10.1063/1.4972468)  
 
 N. Berg, **A. Franke**, R. Kirste, R. Collazo, A. Ivanisevic, *“Photoluminescence Changes of III-Nitride lateral Polarity Structures after Chemical Functionalization”*, [Materials Research Express 3, 12 (2016)](http://iopscience.iop.org/article/10.1088/2053-1591/3/12/125906)
