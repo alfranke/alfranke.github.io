@@ -20,6 +20,10 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 ***
 
+|date of birth:  |25. February 1982|
+|place of birth: |Halle, Germany
+|email:          |alexander_franke(at)gmx.net|
+
 
 ## Education
 
@@ -69,77 +73,14 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 |                     | |
 |Nov. 2004 - Dec. 2005|**Teaching assistant** for undergraduate applied physics laboratory course at Otto-von-Guericke-University Magdeburg, Germany|
 
-
-
 ## Scientific and University Organization
 
 ***
 
 |since 2000           |Membership of “Deutsche Physikalische Gesellschaft” (DPG)|
 |                     | |
-|Jun. 2014 - Dec. 2016|International officer of Postdoctoral Association at North Carolina State University, Raleigh, NC <br> - represent and support international postdoctoral students at NC State University| 
+|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina State University, Raleigh, NC <br> - represent and support international postdoctoral students at NC State University| 
 
-
-`a`
-
-### Teaching experience
-
-Dec. 2016 - Feb. 2014
-
-Assistant of graduate course “Interaction of Electrons with materials” and
-“Interaction of Photons with Materials”,
-
-North Carolina State University, Raleigh, NC, USA 
-
-Oct. 2008 – Jul. 2009
-Lecturer of undergrad course “Technical Optics” at Otto-von-Guericke-University Magdeburg, Germany
-
-
-## Awards
-
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
 
 
 
