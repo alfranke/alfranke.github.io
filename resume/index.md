@@ -52,7 +52,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 | |- supervison of Master and Bachelor students|
 | | |
 |Jan. 2007 - Feb. 2013| Research Associate|
-|Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany|
+| |Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany|
 | |- design, fabrication and characterization of vertical emitting laser structures in the visible and ultra-violet spectral range|
 | |- fundamental research on polaritons for development of polariton lasers|
 | |- structural and optical characterization of optoelectronic devices|
