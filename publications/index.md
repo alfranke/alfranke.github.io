@@ -5,7 +5,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 
 ---
-*[Download publication list as pdf file]*(../pdf/AA_publications_Franke_upload_Jan2016.pdf)
+*[Download publication list as pdf file]*(../pdf/AA.pdf)
 
 ## Patents
          
