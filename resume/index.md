@@ -70,7 +70,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 |since 2000           |Membership of “Deutsche Physikalische Gesellschaft” (DPG)|
 |                     | |
-|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina State <br> University, Raleigh, NC <br> - represent and support international postdoctoral students at NC State University| 
+|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina <br> State University, Raleigh, NC <br> - represent and support international postdoctoral students at NC State University| 
 
 
 
