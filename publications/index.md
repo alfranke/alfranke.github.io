@@ -5,6 +5,10 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 
 ---
+# Patents
+
+## 2016
+M. Gerhold, **A. Franke**, R. Kirste, D. Alden, Z. Sitar, R. Collazo,  *“Monolithic micro-pillar photonic cavities based on III-nitrides materials”*, U.S. patent disclosure, Jan. 2016
 
 # Publications
 *[Download pfd-file]*
