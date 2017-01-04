@@ -7,4 +7,4 @@ comments: true
 
 ## 2014 - 2016
   
-![picture](../images/bio-photo.jpg) 
+![picture](../images/franke_alex7041.jpg) 
