@@ -11,7 +11,7 @@ comments: true
 M. Gerhold, **A. Franke**, R. Kirste, D. Alden, Z. Sitar, R. Collazo,  *“Monolithic micro-pillar photonic cavities based on III-nitrides materials”*, U.S. patent disclosure, Jan. 2016
 
 ## Publications
-*[Download pfd-file]*
+*[Download publication list as pdf file]*(../pdf/AA_publications_Franke_upload_Jan2016.pdf)
 
 ### 2016
 F. Kaess, P. Reddy, D. Alden, A. Klump, L.H. Hernandez- Balderrama, **A. Franke**, R. Kirste, A. Hoffmann, R. Collazo, Z. Sitar, *“The Effect of Illumination Power Density on Carbon Defect Configuration in Silicon doped GaN”*, [Journal of Applied Physics 120, 235705 (2016)](http://aip.scitation.org/doi/abs/10.1063/1.4972468)  
