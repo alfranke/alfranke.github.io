@@ -5,7 +5,8 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 
 ---
-*[Download pdf file]*(publications/index.md)
+[Download pdf file](https://github.com/alfranke/alfranke.github.io/blob/master/pdf/AA.pdf)
+[*Download pdf file*](../pdf/AA.pdf)
 
 
 ## Patents
