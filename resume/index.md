@@ -36,7 +36,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 ***
 
 |Apr. 2015 - Dec. 2016|[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm) Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA|
-|                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical emitting laser (VCSEL and polariton laser)|
+|                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical <br> emitting laser (VCSEL and polariton laser)|
 |                     | |
 |Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate:** [<u>Department of Materials Science and Engineering</u>](http://www.mse.ncsu.edu/), North Carolina State University, Raleigh, NC, USA|
 |                     |- Simulation and epitaxial growth of AlGaN semiconductor ternary alloys and Bragg reflectors for ultra-violet (UV) vertical emitting laser devices|
