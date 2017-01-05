@@ -4,6 +4,7 @@ tags: [about, about me, me]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
+[*Download pdf-file of curriculum vitae*](../pdf/AA_publications_Franke_upload_Jan2016.pdf)
 
 ## Profile
 ***
