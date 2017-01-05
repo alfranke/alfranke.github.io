@@ -16,14 +16,3 @@ My current work is focused on the fabrication and fundamental research on nitrid
 * electron microscopy and combined methods of structural and luminescence measurement techniques (cathodoluminescence spectroscopy)
 * development of unique custom-build measurement equipment
 * vacuum- and cryogenic technology for spectroscopic applications
-
-
-### Present position
-[Fellowship of National Academies of Sciences](http://sites.nationalacademies.org/PGA/RAP/index.htm), Engineering, Medicine, Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC USA
-
-### previous positions
-Research Associate and Postdoctoral Researcher, [Department of Materials Science and Engineering](http://www.mse.ncsu.edu/), North Carolina State University, Raleigh, NC USA
-
-Postdoctoral Researcher, [Institute of Solid State Physics](http://www.ifkp.tu-berlin.de/menue/arbeitsgruppen/ag_hoffmann/mitarbeiter/parameter/en/), Technische Universität Berlin, Germany
-
-Research Assistance, [Intitute of Experimental Physics](http://www.iep.ovgu.de/home/Festk%C3%B6rperphysik.html), Otto-von-Guericke-University Magdeburg, Germany
