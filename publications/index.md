@@ -5,7 +5,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 
 ---
-*[Download pdf file]*(pdf/AA.pdf)
+*[Download pdf file]*(publications/index.md)
 
 
 ## Patents
