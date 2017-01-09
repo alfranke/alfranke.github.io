@@ -26,7 +26,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 |Feb. 2007 - Apr. 2013|**Doctorate (Dr. rer. nat):** Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (magna cum laude)|
 |                     |- Specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures|  
-|                     |- Thesis: Light-matter-coupling in nitride microcavities”|  
+|                     |- Thesis: "Light-matter-coupling in nitride microcavities”|  
 |                     |    |
 |Oct. 2001 - Jan. 2007|**Study of physics (Diplom):** Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany (very good)|
 |                     |- Specialization: condensed matter / solid state physics / semiconductor physics|
@@ -43,13 +43,13 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 |                     |- supervision of PhD and master students|
 |                     | |
 |Feb. 2013 - Feb. 2014|**Postdoctoral Researcher \ Research Associate:** [<u>Department of solid state physics</u>](http://www.ifkp.tu-berlin.de/menue/arbeitsgruppen/ag_hoffmann/mitarbeiter/parameter/en/) at the Technische Universität Berlin (TU Berlin), Germany|
-|                     |- project „Nanostructured Efficient White LEDs (NEWLED), optical characterization of semiconductor nanostructures|
+|                     |- project "Nanostructured Efficient White LEDs" (NEWLED), optical characterization of semiconductor nanostructures|
 |                     |- supervison of Master and Bachelor students|
 |                     | |
 |Jan. 2007 - Feb. 2013|**Research Associate:** [Department of Experimental Physics](http://www.iep.ovgu.de/home/Festk%C3%B6rperphysik.html), Otto-von-Guericke-University Magdeburg, Germany|
 |                     |- design, fabrication and characterization of vertical emitting laser structures in the visible and ultra-violet spectral range|
 |                     |- fundamental research on polaritons for development of polariton lasers|
-|                     |- structural and optical characterization of optoelectronic|
+|                     |- structural and optical characterization of optoelectronic devices|
 |                     |- manager of luminescence laboratory of Department of solid state physics|
 |                     |- supervision of physics students (diploma degree)|
 
@@ -71,7 +71,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 
 |since 2000           |Membership of “Deutsche Physikalische Gesellschaft” (DPG)|
 |                     | |
-|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina State <br> University, Raleigh, NC <br> - represent and support international postdoctoral students at NC State <br> University| 
+|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina State <br> University, Raleigh, NC <br> - represent and support international postdoctoral students at North Carolina State <br> University| 
 
 
 
