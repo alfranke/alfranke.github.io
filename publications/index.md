@@ -58,8 +58,3 @@ Vivian K. X. Lin, S. Tripathy, S. L. Teo, S. B. Dolmanan, A. Dadgar, M. Noltemey
 
 ### 2009
 C. Hums, A. Gadanecz, A. Dadgar, J. Bläsing, P. Lorenz, S. Krischok, F. Bertram, **A. Franke**, J.A. Schaefer, J. Christen, Alois Krost, *“AlInN/GaN based multi quantum well structures – growth and optical properties”*, [Phys. Status Solidi C 6, 2, S451-S454, (2009)](http://onlinelibrary.wiley.com/doi/10.1002/pssc.200880899/abstract)
-
-
-*[Download pdf file]*(../pdf/Sitzposition_und_Cockpit_ROAD.pdf)
-
-![picture](../images/bio-photo.jpg) 
