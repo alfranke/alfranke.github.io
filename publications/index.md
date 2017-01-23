@@ -35,7 +35,7 @@ F. Güell, P.R. Martínez-Alanis, S. Khachadorian, R.R. Zamani, **A. Franke**, A
 F. Güell, P.R. Martinez-Alanis, S. Khachadorian, J. Rubio-Garcia, **A. Franke**, A. Hoffmann, G. Santana, *“Raman and photoluminescence properties of ZnO nanowires grown by a catalyst-free vapor-transport process using ZnO nanoparticle seeds”*, [Phys. Status Solidi B 253, 5, 883-888, (2016)](http://onlinelibrary.wiley.com/doi/10.1002/pssb.201552651/full)
 
 ### 2015
-A. Majkić, U. Puc, **A. Franke**, R. Kirste, R. Collazo, Z. Sitar, M. Zgonik, *“Optical properties of aluminium nitride single crystal in the THz region”*, [Optical Materials Express, 5, 10, 2106-2111, (2015)](https://www.osapublishing.org/ome/abstract.cfm?uri=ome-5-10-2106)
+A. Majkić, U. Puc, **A. Franke**, R. Kirste, R. Collazo, Z. Sitar, M. Zgonik, *“Optical properties of aluminum nitride single crystal in the THz region”*, [Optical Materials Express, 5, 10, 2106-2111, (2015)](https://www.osapublishing.org/ome/abstract.cfm?uri=ome-5-10-2106)
 
 S. Okur, **A. Franke**, F. Zhang, V. Avrutin, H. Morcoc, F. Bertram, J. Christen, Ü. Özgür, *“Strong exciton-photon coupling in hybrid InGaN-based microcavities on GaN substrate”*, [Proc. SPIE; 9363, (2015)](http://spie.org/Publications/Proceedings/Paper/10.1117/12.2080265)
 
