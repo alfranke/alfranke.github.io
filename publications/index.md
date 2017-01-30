@@ -8,7 +8,7 @@ comments: true
 [*Download pdf-file of patent and publication list*](../pdf/publications_Alexander_Franke.pdf)
 
 
-## Patents
+## Patent
          
 ### 2016
 M. Gerhold, **A. Franke**, R. Kirste, D. Alden, Z. Sitar, R. Collazo,  *“Monolithic micro-pillar photonic cavities based on III-nitrides materials”*, U.S. patent disclosure, Jan. 2016
