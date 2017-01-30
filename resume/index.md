@@ -9,7 +9,7 @@ comments: true
 ## Profile
 ***
 
-Research associate working at Army project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA
+Awarded with National Academies of Sciences fellowship working on project: “Fabrication of ultra-low threshold nitride UV surface emitting laser“ at Department of Materials Science and Engineering at the North Carolina State University in Raleigh, NC, USA
 
 * <u>main research interests:</u> wide bandgap semiconductors, fabrication and characterization of photonic and optoelectronic devices, semiconductor nanostructures, thin film deposition techniques, high resolution spectroscopy 
 * strong experimental, technical and theoretical background, teaching and supervision experience, leadership skills and capable to work in a team, excellent ability to consider, priories and solve tasks 
@@ -17,7 +17,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 ## Identification
 ***
 
-|date of birth: | 25. February 1982                                      |
+|date of birth: | 25th of February 1982                                      |
 |place of birth:| Halle, Germany                                         |
 |email:         | [<u>alexander_franke(at)gmx.net</u>](mailto:alexander_franke@gmx.net)|
 
@@ -36,7 +36,7 @@ Research associate working at Army project: “Fabrication of ultra-low threshol
 ***
 
 |Apr. 2015 - Dec. 2016|[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm) Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA|
-|                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical <br> emitting laser (VCSEL and polariton laser)|
+|                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical emitting laser (VCSEL and polariton laser)|
 |                     | |
 |Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate:** [<u>Department of Materials Science and Engineering</u>](http://www.mse.ncsu.edu/), North Carolina State University, Raleigh, NC, USA|
 |                     |- Simulation and epitaxial growth of AlGaN semiconductor ternary alloys and Bragg reflectors for ultra-violet (UV) vertical emitting laser devices|
