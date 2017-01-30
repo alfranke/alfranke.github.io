@@ -74,7 +74,7 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 |since 2000           | Membership of “Deutsche Physikalische Gesellschaft” (DPG)|
 |                     | |
 |Jun. 2014 - <br> Dec. 2016 |International officer of Postdoctoral Association <br> *North Carolina State University, Raleigh, NC*|
-|                   |- represent and support international postdoctoral students at North Carolina State University| 
+|                   |-- represent and support international postdoctoral students at North Carolina State University| 
 
 
 
