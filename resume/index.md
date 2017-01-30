@@ -36,22 +36,22 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 ***
 
 |Apr. 2015 - Dec. 2016|[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm) Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA|
-|                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical emitting laser (VCSEL and polariton laser)|
+|                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical <br> emitting laser (VCSEL and polariton laser)|
 |                     | |
 |Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate:** [<u>Department of Materials Science and Engineering</u>](http://www.mse.ncsu.edu/), North Carolina State University, Raleigh, NC, USA|
-|                     |- Simulation and epitaxial growth of AlGaN semiconductor ternary alloys and Bragg reflectors for ultra-violet (UV) vertical emitting laser devices|
-|                     |- supervision of PhD and master students|
+|                     |- Simulation and epitaxial growth of AlGaN semiconductor ternary alloys and Bragg reflectors for ultra-violet vertical emitting laser devices|
+|                     |- supervision of PhD and master students, teaching|
 |                     | |
 |Feb. 2013 - Feb. 2014|**Postdoctoral Researcher \ Research Associate:** [<u>Department of solid state physics</u>](http://www.ifkp.tu-berlin.de/menue/arbeitsgruppen/ag_hoffmann/mitarbeiter/parameter/en/) at the Technische Universität Berlin (TU Berlin), Germany|
-|                     |- project "Nanostructured Efficient White LEDs" (NEWLED), optical characterization of semiconductor nanostructures|
+|                     |- project: "Nanostructured Efficient White LEDs" (NEWLED), optical characterization of semiconductor nanostructures|
 |                     |- supervison of Master and Bachelor students|
 |                     | |
 |Jan. 2007 - Feb. 2013|**Research Associate:** [Department of Experimental Physics](http://www.iep.ovgu.de/home/Festk%C3%B6rperphysik.html), Otto-von-Guericke-University Magdeburg, Germany|
 |                     |- design, fabrication and characterization of vertical emitting laser structures in the visible and ultra-violet spectral range|
 |                     |- fundamental research on polaritons for development of polariton lasers|
 |                     |- structural and optical characterization of optoelectronic devices|
-|                     |- manager of luminescence laboratory of Department of solid state physics|
-|                     |- supervision of physics students (diploma degree)|
+|                     |- manager of spectroscopy laboratory |
+|                     |- supervision of physics students (diploma degree), teaching|
 
 ## Teaching experience
 ***
@@ -60,9 +60,9 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 |                     | |
 |Oct. 2009 - Jan. 2013|**Assistant** for undergraduate course: “Physics for Engineers” and applied physics laboratory course for physicists for engineers at Otto-von-Guericke-University Magdeburg, Germany|  
 |                     | |
-|Apr. 2009 - Oct. 2008|**Lecturer** of undergraduate course “Technical Optics” at Otto-von-Guericke-University Magdeburg, Germany|
+|Apr. 2009 - Oct. 2008|**Lecturer** of course “Technical Optics” at Otto-von-Guericke-University Magdeburg, Germany|
 |                     | |
-|Apr. 2007 - Sep. 2008|**Teaching assistant** for 3rd and 4th year undergrad physics course at Otto-von-Guericke-University Magdeburg, Germany|
+|Apr. 2007 - Sep. 2008|**Teaching assistant** for 3rd and 4th year undergraduate physics course at Otto-von-Guericke-University Magdeburg, Germany|
 |                     | |
 |Nov. 2004 - Dec. 2005|**Teaching assistant** for undergraduate applied physics laboratory course at Otto-von-Guericke-University Magdeburg, Germany|
 
@@ -71,7 +71,7 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 
 |since 2000           |Membership of “Deutsche Physikalische Gesellschaft” (DPG)|
 |                     | |
-|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina State <br> University, Raleigh, NC <br> - represent and support international postdoctoral students at North Carolina State <br> University| 
+|Jun. 2014 - <br> Dec. 2016|International officer of Postdoctoral Association at North Carolina State <br> University, Raleigh, NC <br> - represent and support international postdoctoral students at North Carolina State University| 
 
 
 
@@ -80,4 +80,4 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 
 Last updated: May 2013 -->
 
-
+ 
