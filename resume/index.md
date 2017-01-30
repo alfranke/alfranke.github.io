@@ -56,15 +56,15 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 ## Teaching experience
 ***
 
-|Feb. 2014 - Dec. 2016|**Assistant** for graduate course “Interaction of Electrons with Materials” and “Interaction of Photons with Materials”, North Carolina State University, Raleigh, NC, USA|
+|Feb. 2014 - Dec. 2016 | **Assistant** for graduate course “Interaction of Electrons with Materials” and “Interaction of Photons with Materials”, North Carolina State University, Raleigh, NC, USA|
 |                     | |
-|Oct. 2009 - Jan. 2013|**Assistant** for undergraduate course: “Physics for Engineers” and applied physics laboratory course for physicists for engineers at Otto-von-Guericke-University Magdeburg, Germany|  
+|Oct. 2009 - Jan. 2013 | **Assistant** for undergraduate course: “Physics for Engineers” and applied physics laboratory course for physicists for engineers at Otto-von-Guericke-University Magdeburg, Germany|  
 |                     | |
-|Apr. 2009 - Oct. 2008|**Lecturer** of course “Technical Optics” at Otto-von-Guericke-University Magdeburg, Germany|
+|Apr. 2009 - Oct. 2008 | **Lecturer** of course “Technical Optics” at Otto-von-Guericke-University Magdeburg, Germany|
 |                     | |
-|Apr. 2007 - Sep. 2008|**Teaching assistant** for 3rd and 4th year undergraduate physics course at Otto-von-Guericke-University Magdeburg, Germany|
+|Apr. 2007 - Sep. 2008 | **Teaching assistant** for 3rd and 4th year undergraduate physics course at Otto-von-Guericke-University Magdeburg, Germany|
 |                     | |
-|Nov. 2004 - Dec. 2005|**Teaching assistant** for undergraduate applied physics laboratory course at Otto-von-Guericke-University Magdeburg, Germany|
+|Nov. 2004 - Dec. 2005 | **Teaching assistant** for undergraduate applied physics laboratory course at Otto-von-Guericke-University Magdeburg, Germany|
 
 ## Scientific and University Organization
 ***
