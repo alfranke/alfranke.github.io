@@ -24,7 +24,7 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 ## Education
 ***
 
-|Feb. 2007 - Apr. 2013|**Doctorate (Dr. rer. nat)** - (magna cum laude)|
+|Feb. 2007 - Apr. 2013|**Doctorate (Dr. rer. nat)** - (magna cum laude)                                                                               |
 |                     |*Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany* |
 |                     |- Specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures|  
 |                     |- Thesis: "Light-matter-coupling in nitride microcavities”|  
@@ -37,7 +37,7 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 ## Work experience
 ***
 
-|Apr. 2015 - Dec. 2016|[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm)| 
+|Apr. 2015 - Dec. 2016|[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm)                                                                                                                                                                                          | 
 |                     |*Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA*|
 |                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical <br> emitting laser (VCSEL and polariton laser)|
 |                     | |
