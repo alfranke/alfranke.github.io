@@ -24,20 +24,20 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 ## Education
 ***
 
-|Feb. 2007 - Apr. 2013|**Doctorate (Dr. rer. nat)** - (magna cum laude)                                                                               |
-|                     |*Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany* |
+|Feb. 2007 - Apr. 2013|**Doctorate (Dr. rer. nat):** *Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany* - (magna cum laude)|
 |                     |- Specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures|  
 |                     |- Thesis: "Light-matter-coupling in nitride microcavities”|  
 |                     |    |
-|Oct. 2001 - Jan. 2007|**Study of physics (Diplom)** - (very good): *Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany*|
+|Oct. 2001 -          |**Study of physics (Diplom)** - (very good)|
+|Jan. 2007            |*Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany*|
 |                     |- Specialization: condensed matter / solid state physics / semiconductor physics|
 |                     |- Thesis: “Luminescence investigations of microcavity and VCSEL structures in the blue and ultra-violet spectral range”| 
 
 ## Work experience
 ***
 
-|Apr. 2015 - Dec. 2016|[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm)                                                                                                                                                                                          | 
-|                     |*Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA*|
+|Apr. 2015 -          |[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm)  | 
+|- Dec. 2016          |*Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA*|
 |                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical <br> emitting laser (VCSEL and polariton laser)|
 |                     | |
 |Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate:** [<u>Department of Materials Science and Engineering</u>](http://www.mse.ncsu.edu/), North Carolina State University, Raleigh, NC, USA|
