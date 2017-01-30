@@ -28,27 +28,25 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 |                     |- Specialization: optical properties and light-matter coupling in semiconductor nano/micro-structures|  
 |                     |- Thesis: "Light-matter-coupling in nitride microcavities”|  
 |                     |    |
-|Oct. 2001 -          |**Study of physics (Diplom)** - (very good)|
-|Jan. 2007            |*Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany*|
+|Oct. 2001 - Jan. 2007|**Study of physics (Diplom):** *Department of Experimental Physics, Otto-von-Guericke-University Magdeburg, Germany* - (very good)|
 |                     |- Specialization: condensed matter / solid state physics / semiconductor physics|
 |                     |- Thesis: “Luminescence investigations of microcavity and VCSEL structures in the blue and ultra-violet spectral range”| 
 
 ## Work experience
 ***
 
-|Apr. 2015 -          |[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm)  | 
-|- Dec. 2016          |*Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA*|
+|Apr. 2015 - Dec. 2016|[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm) *Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA*|
 |                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical <br> emitting laser (VCSEL and polariton laser)|
 |                     | |
-|Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate:** [<u>Department of Materials Science and Engineering</u>](http://www.mse.ncsu.edu/), North Carolina State University, Raleigh, NC, USA|
+|Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate:** [<u>*Department of Materials Science and Engineering*</u>](http://www.mse.ncsu.edu/), *North Carolina State University, Raleigh, NC, USA*|
 |                     |- Simulation and epitaxial growth of Group-III-Nitride semiconductor films and Bragg reflectors for ultra-violet vertical emitting laser devices|
 |                     |- supervision of PhD and master students, teaching|
 |                     | |
-|Feb. 2013 - Feb. 2014|**Postdoctoral Researcher \ Research Associate:** [<u>Department of solid state physics</u>](http://www.ifkp.tu-berlin.de/menue/arbeitsgruppen/ag_hoffmann/mitarbeiter/parameter/en/) at the Technische Universität Berlin (TU Berlin), Germany|
+|Feb. 2013 - Feb. 2014|**Postdoctoral Researcher \ Research Associate:** [<u>*Department of solid state physics*</u>](http://www.ifkp.tu-berlin.de/menue/arbeitsgruppen/ag_hoffmann/mitarbeiter/parameter/en/) *at the Technische Universität Berlin (TU Berlin), Germany*|
 |                     |- project: "Nanostructured Efficient White LEDs" (NEWLED), optical characterization of semiconductor nanostructures|
 |                     |- supervision of Master and Bachelor students|
 |                     | |
-|Jan. 2007 - Feb. 2013|**Research Associate:** [Department of Experimental Physics](http://www.iep.ovgu.de/home/Festk%C3%B6rperphysik.html), Otto-von-Guericke-University Magdeburg, Germany|
+|Jan. 2007 - Feb. 2013|**Research Associate:** [*Department of Experimental Physics*](http://www.iep.ovgu.de/home/Festk%C3%B6rperphysik.html), *Otto-von-Guericke-University Magdeburg, Germany*|
 |                     |- design, fabrication and characterization of vertical emitting laser structures for the visible and ultra-violet spectral range|
 |                     |- fundamental research on polaritons for the development of polariton lasers|
 |                     |- structural and optical analysis of optoelectronic devices|
