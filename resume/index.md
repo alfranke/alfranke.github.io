@@ -38,7 +38,7 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 |Apr. 2015 - Dec. 2016|[**<u>Fellowship of National Academies of Sciences:</u>**](http://sites.nationalacademies.org/PGA/RAP/index.htm) *Department of Materials Science and Engineering, North Carolina State University, Raleigh, NC, USA*|
 |                     |- project management: ''Fabrication of ultra-low threshold nitride UV surface emitting laser'' including design, simulation, fabrication, and characterization of vertical <br> emitting laser (VCSEL and polariton laser)|
 |                     | |
-|Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate:** [<u>*Department of Materials Science and Engineering*</u>](http://www.mse.ncsu.edu/), *North Carolina State University, Raleigh, NC, USA*|
+|Feb. 2014 - Apr. 2015|**Postdoctoral Researcher \ Research Associate:** [*<u>Department of Materials Science and Engineering</u>*](http://www.mse.ncsu.edu/), *North Carolina State University, Raleigh, NC, USA*|
 |                     |- Simulation and epitaxial growth of Group-III-Nitride semiconductor films and Bragg reflectors for ultra-violet vertical emitting laser devices|
 |                     |- supervision of PhD and master students, teaching|
 |                     | |
@@ -62,14 +62,11 @@ Awarded with National Academies of Sciences fellowship working on project: “Fa
 |Oct. 2009 - Jan. 2013 | **Assistant** for undergraduate course: “Physics for Engineers” and applied physics laboratory course for physicists and engineers|
 |                     |*Otto-von-Guericke-University Magdeburg, Germany*|  
 |                     | |
-|Apr. 2009 - Oct. 2008 | **Lecturer** of course “Technical Optics”|
-|                     |*Otto-von-Guericke-University Magdeburg, Germany*|
+|Apr. 2009 - Oct. 2008 | **Lecturer** of course “Technical Optics” <br> *Otto-von-Guericke-University Magdeburg, Germany*|
 |                     | |
-|Apr. 2007 - Sep. 2008 | **Teaching assistant** for 3rd and 4th year undergraduate physics course|
-|                     |*Otto-von-Guericke-University Magdeburg, Germany*|
+|Apr. 2007 - Sep. 2008 | **Teaching assistant** for 3rd and 4th year undergraduate physics course <br> *Otto-von-Guericke-University Magdeburg, Germany*|
 |                     | |
-|Nov. 2004 - Dec. 2005 | **Teaching assistant** for undergraduate applied physics laboratory course|
-|                      |*Otto-von-Guericke-University Magdeburg, Germany*|
+|Nov. 2004 - Dec. 2005 | **Teaching assistant** for undergraduate applied physics laboratory course <br> *Otto-von-Guericke-University Magdeburg, Germany*|
 
 ## Scientific and University Organization
 ***
